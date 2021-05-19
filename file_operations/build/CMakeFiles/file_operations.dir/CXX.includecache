@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wojtek/cpp/Coders_School/Miscellaneous/file_operations/main.cpp
+cstdlib
+-
+fstream
+-
+iostream
+-
+sstream
+-
+

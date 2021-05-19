@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/wojtek/cpp/Coders_School/Miscellaneous/c++20/build",
+  "command": "/bin/g++-10    -g   -fconcepts -std=gnu++2a -o CMakeFiles/new_features.dir/main.cpp.o -c /home/wojtek/cpp/Coders_School/Miscellaneous/c++20/main.cpp",
+  "file": "/home/wojtek/cpp/Coders_School/Miscellaneous/c++20/main.cpp"
+}
+]

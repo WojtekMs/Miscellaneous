@@ -1,0 +1,1 @@
+/bin/g++-10  -g   CMakeFiles/new_features.dir/main.cpp.o  -o new_features 

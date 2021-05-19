@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/wojtek/cpp/Coders_School/Miscellaneous/variadic/build",
+  "command": "/bin/g++-10    -g   -std=gnu++17 -o CMakeFiles/variadic.dir/main.cpp.o -c /home/wojtek/cpp/Coders_School/Miscellaneous/variadic/main.cpp",
+  "file": "/home/wojtek/cpp/Coders_School/Miscellaneous/variadic/main.cpp"
+}
+]

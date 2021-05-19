@@ -1,0 +1,28 @@
+1st: 10 + 10 = 20
+2nd: 10 + 9 = 19
+3rd: 9
+4th: 10 + 0 + 8 = 18
+5th: 8
+6th: 10 + 0 = 10
+7th: 6
+8th: 10 + 10 + 10 = 30
+9th: 10 + 10 + 8 = 28
+10th: 10 + 8 + 1 = 19
+
+Total sum: 20 + 19 + 9 + 18 + 8 + 10 + 6 + 30 + 28 + 19 =
+= 167!
+
+So the algorithm would be:
+if X -> 10 + points scored for the next two throws of a ball
+if in a frame occured / -> 10 + points scored for the next throw of a ball
+if - -> no points
+
+example:
+7 -|8 /|5 3|X||7 3
+
+1st: 7
+2nd: 10 + 5 = 15
+3rd: 8
+4th: 10 + 7 + 3 = 20
+
+Total sum = 7 + 15 + 8 + 20 = 50

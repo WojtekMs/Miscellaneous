@@ -1,0 +1,3 @@
+/usr/bin/cmake -E remove -f CMakeFiles/cross-compilation.dir/objects.a
+/usr/bin/x86_64-w64-mingw32-ar cr CMakeFiles/cross-compilation.dir/objects.a @CMakeFiles/cross-compilation.dir/objects1.rsp
+/usr/bin/x86_64-w64-mingw32-g++ -Wall  -static -Wl,--whole-archive CMakeFiles/cross-compilation.dir/objects.a -Wl,--no-whole-archive  -o cross-compilation.exe -Wl,--out-implib,libcross-compilation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cross-compilation.dir/linklibs.rsp

@@ -1,0 +1,16 @@
+Determining if the CXX compiler works failed with the following output:
+Change Dir: /home/wojtek/cpp/Coders_School/Miscellaneous/cross-compilation/buildWindows/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c6472/fast && /usr/bin/make -f CMakeFiles/cmTC_c6472.dir/build.make CMakeFiles/cmTC_c6472.dir/build
+make[1]: Entering directory '/home/wojtek/cpp/Coders_School/Miscellaneous/cross-compilation/buildWindows/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_c6472.dir/testCXXCompiler.cxx.obj
+/usr/bin/x86_64-w64-mingw32-g++    -Wall;-Wall    -o CMakeFiles/cmTC_c6472.dir/testCXXCompiler.cxx.obj -c /home/wojtek/cpp/Coders_School/Miscellaneous/cross-compilation/buildWindows/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+x86_64-w64-mingw32-g++: fatal error: no input files
+compilation terminated.
+/bin/sh: 1: -Wall: not found
+make[1]: *** [CMakeFiles/cmTC_c6472.dir/build.make:66: CMakeFiles/cmTC_c6472.dir/testCXXCompiler.cxx.obj] Error 127
+make[1]: Leaving directory '/home/wojtek/cpp/Coders_School/Miscellaneous/cross-compilation/buildWindows/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_c6472/fast] Error 2
+
+
+

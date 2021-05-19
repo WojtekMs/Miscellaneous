@@ -1,0 +1,3 @@
+/home/wojtek/cpp/Coders School/Miscellaneous/flags/build/CMakeFiles/rebuild_cache.dir
+/home/wojtek/cpp/Coders School/Miscellaneous/flags/build/CMakeFiles/edit_cache.dir
+/home/wojtek/cpp/Coders School/Miscellaneous/flags/build/CMakeFiles/flags.dir

@@ -1,0 +1,3 @@
+/home/wojtek/cpp/Coders_School/Miscellaneous/cross-compilation/buildWindows/CMakeFiles/rebuild_cache.dir
+/home/wojtek/cpp/Coders_School/Miscellaneous/cross-compilation/buildWindows/CMakeFiles/edit_cache.dir
+/home/wojtek/cpp/Coders_School/Miscellaneous/cross-compilation/buildWindows/CMakeFiles/cross-compilation.dir

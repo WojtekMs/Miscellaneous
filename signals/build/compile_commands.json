@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/wojtek/cpp/Coders_School/Miscellaneous/signals/build",
+  "command": "/bin/g++-10    -g   -std=gnu++17 -o CMakeFiles/signals.dir/main.cpp.o -c /home/wojtek/cpp/Coders_School/Miscellaneous/signals/main.cpp",
+  "file": "/home/wojtek/cpp/Coders_School/Miscellaneous/signals/main.cpp"
+}
+]

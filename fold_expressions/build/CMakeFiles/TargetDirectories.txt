@@ -1,0 +1,3 @@
+/home/wojtek/cpp/Coders_School/Miscellaneous/fold_expressions/build/CMakeFiles/rebuild_cache.dir
+/home/wojtek/cpp/Coders_School/Miscellaneous/fold_expressions/build/CMakeFiles/edit_cache.dir
+/home/wojtek/cpp/Coders_School/Miscellaneous/fold_expressions/build/CMakeFiles/fold_expressions.dir

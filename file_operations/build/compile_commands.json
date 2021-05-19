@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/wojtek/cpp/Coders_School/Miscellaneous/file_operations/build",
+  "command": "/bin/g++-10    -g   -std=gnu++17 -o CMakeFiles/file_operations.dir/main.cpp.o -c /home/wojtek/cpp/Coders_School/Miscellaneous/file_operations/main.cpp",
+  "file": "/home/wojtek/cpp/Coders_School/Miscellaneous/file_operations/main.cpp"
+}
+]

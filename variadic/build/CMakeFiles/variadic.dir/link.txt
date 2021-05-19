@@ -1,0 +1,1 @@
+/bin/g++-10  -g  -rdynamic CMakeFiles/variadic.dir/main.cpp.o  -o variadic 
