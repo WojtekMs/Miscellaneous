@@ -1,0 +1,116 @@
+# C++ Miscellaneous Examples
+This repository contains C++ code examples:
+- showing how to handle different problems
+- demonstrating certain C++ language features
+
+Feel free to experiment with each of the examples and see how they work!
+
+- [C++ Miscellaneous Examples](#c-miscellaneous-examples)
+  - [ate](#ate)
+  - [atomic](#atomic)
+  - [attributes](#attributes)
+  - [auto_return](#auto_return)
+  - [back_inserter](#back_inserter)
+  - [bowling](#bowling)
+  - [c++17](#c17)
+  - [c++20](#c20)
+  - [casts](#casts)
+  - [chrono_time](#chrono_time)
+  - [const_method](#const_method)
+  - [conversion](#conversion)
+  - [copy_if](#copy_if)
+  - [cross-compilation](#cross-compilation)
+  - [c_str](#c_str)
+  - [dtor](#dtor)
+  - [exception](#exception)
+  - [file_operations](#file_operations)
+  - [flags](#flags)
+  - [fold_expressions](#fold_expressions)
+  - [getline](#getline)
+  - [includeDependencies](#includedependencies)
+  - [includeFlag](#includeflag)
+  - [iomanip](#iomanip)
+  - [is_array](#is_array)
+  - [normal_distribution](#normal_distribution)
+  - [operator>>](#operator)
+  - [ostream_iterator](#ostream_iterator)
+  - [pointerToFunction](#pointertofunction)
+  - [priority_que](#priority_que)
+  - [push_back](#push_back)
+  - [queue](#queue)
+  - [referenceClass](#referenceclass)
+  - [regex](#regex)
+  - [rotate](#rotate)
+  - [selfMove](#selfmove)
+  - [selfPtr](#selfptr)
+  - [sharedPtrs](#sharedptrs)
+  - [signals](#signals)
+  - [stable_partition](#stable_partition)
+  - [stack](#stack)
+  - [std::shared_ptr](#stdshared_ptr)
+  - [string](#string)
+  - [stringstream](#stringstream)
+  - [system](#system)
+  - [transform](#transform)
+  - [type_traits](#type_traits)
+  - [unique](#unique)
+  - [uniqueArray](#uniquearray)
+  - [using](#using)
+  - [variadic](#variadic)
+  - [visit](#visit)
+  - [weak_ptr](#weak_ptr)
+
+## [ate](ate)
+Example demonstrating flags passed to `std::fstream`.
+## atomic
+## attributes
+## auto_return
+## back_inserter
+## bowling
+## c++17
+## c++20
+## casts
+## chrono_time
+## const_method
+## conversion
+## copy_if
+## cross-compilation
+## c_str
+## dtor
+## exception
+## file_operations
+## flags
+## fold_expressions
+## getline
+## includeDependencies
+## includeFlag
+## iomanip
+## is_array
+## normal_distribution
+## operator>>
+## ostream_iterator
+## pointerToFunction
+## priority_que
+## push_back
+## queue
+## referenceClass
+## regex
+## rotate
+## selfMove
+## selfPtr
+## sharedPtrs
+## signals
+## stable_partition
+## stack
+## std::shared_ptr
+## string
+## stringstream
+## system
+## transform
+## type_traits
+## unique
+## uniqueArray
+## using
+## variadic
+## visit
+## weak_ptr
