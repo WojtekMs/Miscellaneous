@@ -1,1 +1,0 @@
-/bin/g++-10  -g  -rdynamic CMakeFiles/file_operations.dir/main.cpp.o  -o file_operations 

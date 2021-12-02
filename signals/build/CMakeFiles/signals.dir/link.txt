@@ -1,1 +1,0 @@
-/bin/g++-10  -g  -rdynamic CMakeFiles/signals.dir/main.cpp.o  -o signals 

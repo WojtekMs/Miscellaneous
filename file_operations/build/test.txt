@@ -1,8 +1,0 @@
-total 108
--rw-r--r-- 1 wojtek wojtek 13965 Feb  2 21:52 CMakeCache.txt
-drwxr-xr-x 5 wojtek wojtek  4096 Feb  2 21:54 CMakeFiles
--rw-r--r-- 1 wojtek wojtek  1577 Feb  2 21:52 cmake_install.cmake
--rw-r--r-- 1 wojtek wojtek   341 Feb  2 21:53 compile_commands.json
--rwxr-xr-x 1 wojtek wojtek 69936 Feb  2 21:54 file_operations
--rw-r--r-- 1 wojtek wojtek  5030 Feb  2 21:53 Makefile
--rw-r--r-- 1 wojtek wojtek     0 Feb  2 21:54 test.txt

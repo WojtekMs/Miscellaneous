@@ -1,3 +1,0 @@
-/home/wojtek/cpp/Coders_School/Miscellaneous/variadic/build/CMakeFiles/rebuild_cache.dir
-/home/wojtek/cpp/Coders_School/Miscellaneous/variadic/build/CMakeFiles/edit_cache.dir
-/home/wojtek/cpp/Coders_School/Miscellaneous/variadic/build/CMakeFiles/variadic.dir

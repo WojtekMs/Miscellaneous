@@ -1,3 +1,0 @@
-/home/wojtek/cpp/Coders_School/Miscellaneous/file_operations/build/CMakeFiles/rebuild_cache.dir
-/home/wojtek/cpp/Coders_School/Miscellaneous/file_operations/build/CMakeFiles/edit_cache.dir
-/home/wojtek/cpp/Coders_School/Miscellaneous/file_operations/build/CMakeFiles/file_operations.dir
